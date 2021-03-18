@@ -1,0 +1,25 @@
+{
+  "name": "weba",
+  "version": "0.0.1",
+  "description": "Web Access Control Srv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birm/weba.git"
+  },
+  "keywords": [
+    "wac",
+    "webaccesscontrol",
+    "rdf",
+    "turtle"
+  ],
+  "author": "birm",
+  "license": "SEE LICENSE IN 'LICENSE'",
+  "bugs": {
+    "url": "https://github.com/birm/weba/issues"
+  },
+  "homepage": "https://github.com/birm/weba#readme"
+}
