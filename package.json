@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/birm/weba/issues"
   },
-  "homepage": "https://github.com/birm/weba#readme"
+  "homepage": "https://github.com/birm/weba#readme",
+  "dependencies": {
+    "rdf": "^4.1.0"
+  }
 }
